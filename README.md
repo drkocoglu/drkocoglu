@@ -2,9 +2,8 @@
 
 - 🎓 PhD in Petroleum Engineering from Texas Tech University
 - Focused on time series forecasting of oil & gas production with RNNs (LSTM, Bi-LSTM, etc.)
-- 1.5 years of research experience in Computer Vision (object detection, semantic & instance segmentation, and tracking using models like Faster R-CNN, Mask R-CNN, and Vision Transformers)
-
-- 👀 I’m interested in Artificial Intelligence and Mathematical Modeling, and applying them to solve real-world problems across different domains.
+     • 1.5 years of research experience in Computer Vision (object detection, semantic & instance segmentation, and tracking using models like Faster R-CNN, Mask R-CNN, and Vision Transformers)
+     • 👀 I’m interested in Artificial Intelligence and Mathematical Modeling, and applying them to solve real-world problems across different domains.
 
 - 🌱 I’m currently learning:
      • Generative AI and Large Language Models (LLMs)
