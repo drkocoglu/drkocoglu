@@ -7,11 +7,12 @@
 PhD in Petroleum Engineering — Texas Tech University  
 
 **Research focus:**
-- Time series forecasting of oil & gas production (LSTM, Bi-LSTM, etc.)
+- Time series forecasting of oil & gas production using machine learning & deep learning
+- Models: Multi-Modal Models, LSTM, GRU, Bi-directional LSTM/GRU, XGBoost, SVR, DNN, MLP
 
-**Computer Vision research (1.5 years):**
-- Object detection, semantic & instance segmentation, and tracking  
-- Models: Faster R-CNN, Mask R-CNN, Vision Transformers  
+**Computer Vision research:**
+- Object detection & tracking, semantic & instance segmentation 
+- Models: Faster R-CNN, Mask R-CNN, Vision Transformers, PointRend 
 
 **General interest:**
 - Artificial Intelligence and Mathematical Modeling applied to real-world problems across different domains  
@@ -21,8 +22,8 @@ PhD in Petroleum Engineering — Texas Tech University
 ## 🌱 Currently Learning
 
 - Generative AI and Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG) basics  
-- Building simple AI agents and chatbot systems  
+- Retrieval-Augmented Generation (RAG)  
+- Building AI agents and chatbot systems  
 - Practical NLP for working with text data  
 
 ---
@@ -37,13 +38,15 @@ PhD in Petroleum Engineering — Texas Tech University
 
 ## 📫 Contact
 
-- Email: mrkocoglu@yahoo.com  
+- Email: mrkocoglu@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/yildirim-kocoglu-ph-d-11a6b358/  
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Fun facts
 
-I enjoy tackling challenging problems—whether in AI/modeling or in games like Dark Souls and Sekiro. I also speak 4 languages: Turkish, English, Russian, and Turkmen.
+- I speak 4 languages: Turkish, English, Russian, and Turkmen.
+- I enjoy tackling challenging problems—whether in AI/modeling or in video games (Dark Souls, Sekiro, Elden Ring, etc.). 
 
 <!---
 drkocoglu/drkocoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
