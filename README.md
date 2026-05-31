@@ -43,10 +43,10 @@ PhD in Petroleum Engineering — Texas Tech University
 
 ---
 
-## ⚡ Fun facts
+## ⚡ Fun Facts About Myself
 
 - I speak 4 languages: Turkish, English, Russian, and Turkmen.
-- I enjoy tackling challenging problems—whether in AI/modeling or in video games (Dark Souls, Sekiro, Elden Ring, etc.). 
+- I enjoy tackling challenging problems — whether in AI/modeling or in video games (Dark Souls, Sekiro, Elden Ring, etc.). 
 
 <!---
 drkocoglu/drkocoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
